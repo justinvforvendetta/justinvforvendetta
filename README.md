@@ -9,6 +9,6 @@
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=justinvforvendetta&show_icons=true&theme=radical&show=reviews,prs_merged,prs_merged_percentage" />
 </a>
 <a href="https://github.com/justinvforvendetta" target="_blank">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinvforvendetta&size_weight=0.5&count_weight=0.5&langs_count=8&theme=dark&show_icons=true" />
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinvforvendetta&size_weight=0.5&count_weight=0.5&langs_count=8&theme=blue-green&show_icons=true" />
 </a>
 </p>
