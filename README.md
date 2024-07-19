@@ -1,6 +1,7 @@
 ## 📊 Sunerok's Github stats
 
 <p align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/09/58/a2/0958a212d8e4b354b2668472808d5548.gif">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justinvforvendetta&theme=github_dark" alt="sunerok's github stats" /></a>
 </p>
 <p align="center"><a href="https://github.com/justinvforvendetta" target="_blank">
