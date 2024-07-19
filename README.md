@@ -1,4 +1,4 @@
-## 📊 Sunerok's Github stats  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="20%" width="20%" alt="GIF" align="center" src="https://i.pinimg.com/originals/09/58/a2/0958a212d8e4b354b2668472808d5548.gif">
+## 📊 Sunerok's Github stats  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="10%" width="10%" alt="GIF" align="center" src="https://i.pinimg.com/originals/09/58/a2/0958a212d8e4b354b2668472808d5548.gif">
 
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justinvforvendetta&theme=github_dark" alt="sunerok's github stats" /></a>
