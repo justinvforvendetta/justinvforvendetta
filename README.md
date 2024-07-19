@@ -3,7 +3,7 @@
   <img height="50%" width="50%" alt="bartwave" src="https://i.pinimg.com/originals/15/5f/27/155f278c6e0ad0f558781e547fb908ad.gif">
 </p>
 <p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" width="80%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justinvforvendetta&theme=github_dark" alt="sunerok's github stats" /></a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" width="90%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justinvforvendetta&theme=github_dark" alt="sunerok's github stats" /></a>
 </p>
 <p align="center"><a href="https://github.com/justinvforvendetta" target="_blank">
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=justinvforvendetta&show_icons=true&theme=github_dark&show=reviews,prs_merged,prs_merged_percentage" />
