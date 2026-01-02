@@ -14,12 +14,17 @@
     src="https://github-readme-stats.vercel.app/api?username=justinvforvendetta&show_icons=true&theme=github_dark&show=reviews,prs_merged,prs_merged_percentage" />
 </p>
 
-<p align="center">
-  <img width="40%"
-    alt="GitHub stats overview"
-    src="https://raw.githubusercontent.com/justinvforvendetta/github-stats/master/generated/overview.svg" />
-
-  <img width="40%"
-    alt="Languages"
-    src="https://raw.githubusercontent.com/justinvforvendetta/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img width="95%"
+        src="https://raw.githubusercontent.com/justinvforvendetta/github-stats/master/generated/overview.svg"
+        alt="GitHub stats overview" />
+    </td>
+    <td align="center">
+      <img width="95%"
+        src="https://raw.githubusercontent.com/justinvforvendetta/github-stats/master/generated/languages.svg"
+        alt="Languages" />
+    </td>
+  </tr>
+</table>
