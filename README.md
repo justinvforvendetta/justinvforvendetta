@@ -7,7 +7,11 @@
 <p align="center"><a href="https://github.com/justinvforvendetta" target="_blank">
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=justinvforvendetta&show_icons=true&theme=github_dark&show=reviews,prs_merged,prs_merged_percentage" />
 </a>
+![](https://raw.githubusercontent.com/justinvforvendetta/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/justinvforvendetta/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![GitHub Stats](https://raw.githubusercontent.com/justinvforvendetta/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![GitHub Stats](https://raw.githubusercontent.com/justinvforvendetta/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
 ![](https://raw.githubusercontent.com/justinvforvendetta/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 <a href="https://github.com/justinvforvendetta" target="_blank">
