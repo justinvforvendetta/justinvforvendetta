@@ -15,14 +15,9 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/justinvforvendetta/github-stats/master/generated/overview.svg">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/justinvforvendetta/github-stats/master/generated/overview.svg">
-    <img width="90%" alt="GitHub stats overview"
-      src="https://raw.githubusercontent.com/justinvforvendetta/github-stats/master/generated/overview.svg">
-  </picture>
+  <img width="90%"
+    alt="GitHub stats overview"
+    src="https://raw.githubusercontent.com/justinvforvendetta/github-stats/master/generated/overview.svg" />
 </p>
 
 <p align="center">
