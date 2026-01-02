@@ -13,12 +13,12 @@
   <tr>
     <td align="center">
       <img width="95%"
-        src="https://raw.githubusercontent.com/justinvforvendetta/github-stats/master/generated/overview.svg"
+        src="https://raw.githubusercontent.com/justinvforvendetta/github-stats/master/generated/overview.svg#gh-dark-mode-only"
         alt="GitHub stats overview" />
     </td>
     <td align="center">
       <img width="95%"
-        src="https://raw.githubusercontent.com/justinvforvendetta/github-stats/master/generated/languages.svg"
+        src="https://raw.githubusercontent.com/justinvforvendetta/github-stats/master/generated/languages.svg#gh-dark-mode-only"
         alt="Languages" />
     </td>
   </tr>
