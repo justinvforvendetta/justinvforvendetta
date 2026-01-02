@@ -9,11 +9,6 @@
     alt="GitHub profile summary" />
 </p>
 
-<p align="center">
-  <img height="300"
-    src="https://github-readme-stats.vercel.app/api?username=justinvforvendetta&show_icons=true&theme=github_dark&show=reviews,prs_merged,prs_merged_percentage" />
-</p>
-
 <table align="center">
   <tr>
     <td align="center">
