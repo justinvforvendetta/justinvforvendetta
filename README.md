@@ -30,8 +30,3 @@
     src="https://raw.githubusercontent.com/justinvforvendetta/github-stats/master/generated/languages.svg#gh-dark-mode-only"
     alt="Languages" />
 </p>
-
-<p align="center">
-  <img height="300"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinvforvendetta&size_weight=0.5&count_weight=0.5&langs_count=8&theme=github_dark&show_icons=true" />
-</p>
