@@ -15,13 +15,11 @@
 </p>
 
 <p align="center">
-  <img width="90%"
+  <img width="40%"
     alt="GitHub stats overview"
     src="https://raw.githubusercontent.com/justinvforvendetta/github-stats/master/generated/overview.svg" />
-</p>
 
-<p align="center">
-  <img width="90%"
-    src="https://raw.githubusercontent.com/justinvforvendetta/github-stats/master/generated/languages.svg#gh-dark-mode-only"
-    alt="Languages" />
+  <img width="40%"
+    alt="Languages"
+    src="https://raw.githubusercontent.com/justinvforvendetta/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
 </p>
