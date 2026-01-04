@@ -23,3 +23,13 @@
     </td>
   </tr>
 </table>
+  <table align="center">
+  <tr>
+    <td align="center">Top 5 notable repositories i've contributed to:<br>
+      <img width="95%"
+        src="https://github-contributor-stats.vercel.app/api?username=justinvforvendetta&hide=B,B%2B&hide_contributor_rank=false&limit=5&order_by=contributions&combine_all_yearly_contributions=true&theme=synthwave"
+        alt="Languages" />
+    </td>
+  </tr>
+</table>
+</table>
