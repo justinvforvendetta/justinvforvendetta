@@ -23,3 +23,12 @@
     </td>
   </tr>
 </table>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img width="95%"
+        src="https://github-profile-trophy-kannan.vercel.app/?username=justinvforvendetta&theme=dark"
+        alt="Trophies" />
+    </td>
+  </tr>
+</table>
