@@ -23,13 +23,3 @@
     </td>
   </tr>
 </table>
-  <table align="center">
-  <tr>
-    <td align="center">Top 5 notable repositories i've contributed to:<br>
-      <img width="95%"
-        src="https://github-profile-trophy.vercel.app/?username=justinvforvendetta&theme=onedark"
-        alt="github trophies" />
-    </td>
-  </tr>
-</table>
-</table>
