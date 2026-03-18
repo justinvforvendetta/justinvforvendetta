@@ -13,20 +13,6 @@
   <tr>
     <td align="center">
       <img width="95%"
-        src="https://raw.githubusercontent.com/justinvforvendetta/github-stats/master/generated/overview.svg#gh-dark-mode-only"
-        alt="GitHub stats overview" />
-    </td>
-    <td align="center">
-      <img width="95%"
-        src="https://raw.githubusercontent.com/justinvforvendetta/github-stats/master/generated/languages.svg#gh-dark-mode-only"
-        alt="Languages" />
-    </td>
-  </tr>
-</table>
-<table align="center">
-  <tr>
-    <td align="center">
-      <img width="95%"
         src="https://github-profile-trophy-kannan.vercel.app/?username=justinvforvendetta&theme=dark"
         alt="Trophies" />
     </td>
