@@ -8,13 +8,3 @@
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=justinvforvendetta&theme=github_dark"
     alt="GitHub profile summary" />
 </p>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img width="95%"
-        src="https://github-profile-trophy-kannan.vercel.app/?username=justinvforvendetta&theme=dark"
-        alt="Trophies" />
-    </td>
-  </tr>
-</table>
